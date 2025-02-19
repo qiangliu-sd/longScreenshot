@@ -1,4 +1,4 @@
-###longScreenshot.exe:<br>
+### longScreenshot:<br>
 	take a long or multi-pages screenshot of a full webpage
 
 How to run:
@@ -18,4 +18,5 @@ System requirements:<br>
 	Windows OS<br>
 	Chrome or Edge is installed
 
-Enjoy it for free! 
+Enjoy it for free!
+[Contact me](https://www.linkedin.com/in/qiangliu427/) _if you have questions._
