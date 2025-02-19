@@ -1,5 +1,5 @@
-### longScreenshot:<br>
-take a long or multi-pages screenshot of a full webpage
+### longScreenshot
+- take a long or multi-pages screenshot of a full webpage
 
 How to run:
 1. update inputs-file:
