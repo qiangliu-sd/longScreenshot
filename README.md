@@ -1,5 +1,5 @@
-### longScreenshot
-- take a long or multi-pages screenshot of a full webpage
+### Long-Screenshot
+	Take a long or multi-pages screenshot of a full webpage
 
 How to run:
 1. update inputs-file:
@@ -18,5 +18,5 @@ System requirements:
 - Windows OS
 - Chrome or Edge is installed
 
-Enjoy it for free!\
+No installation needed! Enjoy it for free.\
 [Contact me](https://www.linkedin.com/in/qiangliu427/) _if you have questions._
