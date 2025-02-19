@@ -1,0 +1,7 @@
+#! this is comment line (first character is #)
+#! Line-Format: [key=value]
+#! do NOT modify: [key's] and the file-name of this file
+URL=D:/qlWork/myDev/xother/Python/WebpageScreenshot/Learn Python Programming - Python Tutorial.html
+png_fname=my_longshot.png
+seconds4page2load=2
+browser=Chrome
