@@ -1,4 +1,4 @@
-### Long-Screenshot
+# Webpage Long-screen Shot
 	Take a long or multi-pages screenshot of a full webpage
 
 How to run:
@@ -18,5 +18,5 @@ System requirements:
 - Windows OS
 - Chrome or Edge is installed
 
-No installation needed! Enjoy it for free.\
+No installation needed! Download and Enjoy it for free.\
 [Contact me](https://www.linkedin.com/in/qiangliu427/) _if you have questions._
